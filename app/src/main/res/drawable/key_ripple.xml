@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/md_theme_dark_primary"
+    android:radius="@dimen/key_corner_radius">
+    <item android:drawable="@drawable/key_background" />
+</ripple>
