@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_height="@dimen/key_height"
+    android:layout_weight="1"
+    android:layout_margin="@dimen/small_margin"
+    android:background="@drawable/key_background_special"
+    android:textColor="@color/md_theme_dark_onBackground"
+    android:textSize="@dimen/key_text_size"
+    android:elevation="@dimen/key_elevation"
+    android:stateListAnimator="@null" />
